@@ -1,0 +1,48 @@
+@charset "utf-8";
+.main_top{
+	background-image: url(../img/head.png),url(../img/head1.png);
+	background-repeat: no-repeat,repeat-x;
+	background-position: center top,left top;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 66px;
+	width: 100%;
+}
+.top_date{
+	font-size: 20px;
+	color: #FFF;
+	margin: 0px;
+	float: left;
+	height: auto;
+	width: 20%;
+	padding-top: 26px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 2%;
+}
+.top_right{
+	margin: 0px;
+	float: right;
+	font-size: 14px;
+	color: #cdd7eb;
+	padding-top: 30px;
+	padding-right: 2%;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.top_right a:link {
+	color: #cdd7eb;
+	text-decoration: none;
+}
+.top_right a:visited {
+	text-decoration: none;
+	color: #cdd7eb;
+}
+.top_right a:hover {
+	text-decoration: none;
+	color: #fff;
+}
+.top_right a:active {
+	text-decoration: none;
+}

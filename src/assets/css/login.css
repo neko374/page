@@ -1,0 +1,56 @@
+/* 
+.box{
+    width: 990px;
+    height: 500px;
+    background: url(../img/login.png) no-repeat;
+    margin: 0px auto;
+    position: relative;
+    margin-top: 20px;
+}
+.box .con{
+    width: 210px;
+    height: 310px;
+  
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -102px;
+    margin-left: 111px;
+}
+.box .con .user{
+    width: 180px;
+    height: 30px;
+    margin: 0px auto;
+    margin-top: 20px;
+}
+.box .con .user>input{
+    width: 180px;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+}
+.box .con .password{
+    width: 180px;
+    height: 30px;
+    margin: 0px auto;
+    margin-top: 20px;
+}
+.box .con .password>input{
+    width: 180px;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+}
+.box .con .but{
+    width: 100px;
+    height: 30px;
+    background: skyblue;
+    margin: 30px auto;
+    border-radius:8px ;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+} */
